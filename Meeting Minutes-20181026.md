@@ -27,9 +27,9 @@ Approval of previous meeting minutes(sign here)：Eddy</br>
   * Have more Idea for what you want to do and have some detail, such as, what language will it use, the UI may look likes. If you know how to do, do it first, and push on your GitHub.<br>
   * Everyone do project document by there own.<br>
 ## Next Week<br>
-Date of next meeting: 2018/11/02
+Date of next meeting: 2018/11/02<br>
 Next time note taker : Yuri<br>
-Next time meeting place: P2
+Next time meeting place: P2<br>
 ### Agenda Items 
   * Have 5 minute stand up said about how project going first. - *actions by: name*<br>
   * See the project going and discuss the encounter problem. - *actions by: name*<br>
