@@ -6,7 +6,7 @@ Members in attendance:Yuri, Gui, Eddy, 7dollar, Paul</br>
 Approval of previous meeting minutes(sign here)：Eddy</br>
 ## Discussion/ Topics
 * Project name<br>
-  >>Not decide yet. 
+  >>Not decide yet. Wait for idea decide.
 * Project going way<br>
   >>First project advice (Mini-project). Every person at least give one idea for the next week.<br>
 * Project Management<br>
@@ -23,7 +23,7 @@ Approval of previous meeting minutes(sign here)：Eddy</br>
   * Know the way to use Slack and finished setting<br>
   * Know the way use Trello and finished setting<br>
   * Know the way use GitHub and finished setting<br>
-## Conclusion<br>
+## Reminders<br>
   * Have more Idea for what you want to do and have some detail, such as, what language will it use, the UI may look likes. If you know how to do, do it first, and push on your GitHub.<br>
   * Everyone do project document by there own.<br>
 ## Next Week<br>
