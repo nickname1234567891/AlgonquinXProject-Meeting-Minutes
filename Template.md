@@ -1,13 +1,9 @@
-# AlgonquinXProject- Meeting-Minutes
-This project is used to put Meeting-Minutes. The template is below.<br>
-
-# AlgonquinXProject- Meeting-Minutes- Template</br>
 # Meeting Minutes <br>
-Date：2018/10/26</br>
-Scheduled starting time：16:00</br>
-Place：P2</br>
-Members in attendance:Yuri, Gui, Eddy, 7dollar, Paul</br>
-Approval of previous meeting minutes(sign here)：Eddy</br>
+Date：YYYY/MM/DD</br>
+Scheduled starting time：HH:MM</br>
+Place：Place</br>
+Members in attendance:member1, member2, member3....</br>
+Approval of previous meeting minutes(sign here)：member1, member2, member3......</br>
 
 ## Discussion/ Topics</br>
 * Topics1<br>
@@ -19,7 +15,7 @@ Approval of previous meeting minutes(sign here)：Eddy</br>
   >>The conclusion/decision/describe<br>
 * Topics3<br>
   >>The conclusion or decision<br>
-## Conclusion<br>
+## Reminders<br>
   * make in bullet points<br>
   * make in bullet points<br>
 ## Next Week<br>
