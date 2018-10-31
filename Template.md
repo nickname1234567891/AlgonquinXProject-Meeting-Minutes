@@ -19,9 +19,9 @@ Approval of previous meeting minutes(sign here)：member1, member2, member3.....
   * make in bullet points<br>
   * make in bullet points<br>
 ## Next Week<br>
-Date of next meeting: YYYY/MM/DD
+Date of next meeting: YYYY/MM/DD<br>
 Next time note taker : name<br>
-Next time meeting place: location
+Next time meeting place: location<br>
 ### Agenda Items 
   * next time discussion topics. - *actions by: name*<br>
   * next time discussion topics. - *actions by: name*<br>
