@@ -1,7 +1,7 @@
 # Meeting Minutes 
 Date：2018/10/26</br>
 Scheduled starting time：16:00</br>
-Place：P2</br>
+Place：J204</br>
 Members in attendance:Yuri, Gui, Eddy, 7dollar, Paul</br>
 Approval of previous meeting minutes(sign here)：Eddy</br>
 ## Discussion/ Topics
@@ -29,8 +29,8 @@ Approval of previous meeting minutes(sign here)：Eddy</br>
 ## Next Week<br>
 Date of next meeting: 2018/11/02<br>
 Next time note taker : Yuri<br>
-Next time meeting place: P2<br>
+Next time meeting place: J204<br>
 ### Agenda Items 
-  * Have 5 minute stand up said about how project going first. - *actions by: name*<br>
-  * See the project going and discuss the encounter problem. - *actions by: name*<br>
+  * Have 5 minute stand up said about how project going first. - *actions by: All Member*<br>
+  * See the project going and discuss the encounter problem. - *actions by: All Member*<br>
   
